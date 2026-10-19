@@ -1,0 +1,19 @@
+.options{
+    text-decoration: none;
+}
+.but {
+    
+    color: white;
+    background-color: red;
+    border-radius: 5px;
+    border: 0px;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+
+}
+.but a{
+    text-decoration: none;
+    color: white;
+}
